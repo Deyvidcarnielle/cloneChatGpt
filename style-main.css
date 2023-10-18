@@ -98,7 +98,7 @@ body{
     color: white;
     font-size: 15px;
     margin-top: 50px;
-    margin-left: 280px;
+    margin-left: 240px;
 }
 
 .right .question i{
@@ -189,6 +189,7 @@ body{
     margin-top: 20px;
     margin-bottom: 20px;
     border: none;
+    color: white;
 
     
 }
